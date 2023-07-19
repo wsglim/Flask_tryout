@@ -5,7 +5,7 @@ app=Flask(__name__)
 
 @app.route('/')
 def home():
-    return "<p>Hallo wereld! Dit is het huiswerk van hoofdstuk 10.</p>"
+    return "<p>Hallo wereld! Dit is het huiswerk van hoofdstuk 11.</p>"
 
 
 if __name__=='__main__':
